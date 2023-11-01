@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-01T09:09:25.867Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="P9niYunfCyAnwb3D7syB" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-01T11:46:27.887Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="J3Cp0LCsof-sSoboiZZ2" version="22.0.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1034" dy="1601" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -112,7 +112,7 @@
             <mxPoint x="-40" y="32" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4vkxwj0buOBXLcgbFXKo-19" value="approve request" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="4vkxwj0buOBXLcgbFXKo-15" vertex="1" connectable="0">
+        <mxCell id="4vkxwj0buOBXLcgbFXKo-19" value="approve request to join" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="4vkxwj0buOBXLcgbFXKo-15" vertex="1" connectable="0">
           <mxGeometry x="0.1475" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -291,7 +291,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dwXVUMRsdK6pNkZCPeb2-63" value="Room" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fillColor=#EA6B66;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="40" y="-200" width="160" height="242" as="geometry">
+          <mxGeometry x="40" y="-280" width="160" height="242" as="geometry">
             <mxRectangle x="550" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -323,7 +323,7 @@
           <mxGeometry y="216" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="dwXVUMRsdK6pNkZCPeb2-75" value="Activity" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fillColor=#EA6B66;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="240" y="-240" width="160" height="164" as="geometry">
+          <mxGeometry x="240" y="-280" width="160" height="164" as="geometry">
             <mxRectangle x="550" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
